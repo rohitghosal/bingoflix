@@ -1,4 +1,6 @@
 # bingoflix
 
-Edited and customized netflix webpage for fun
-visit for best experince : http://bingoflix.epizy.com/
+![Netflix](https://github.com/rohitghosal/bingoflix/blob/main/Netflix_logo.svg)
+
+Customised netflix webpage for fun
+# visit for best experince : http://bingoflix.epizy.com/
